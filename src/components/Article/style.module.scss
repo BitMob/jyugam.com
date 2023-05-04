@@ -1,0 +1,61 @@
+@import "../../styles/variables.scss";
+
+.article {
+  h3 {
+    @include base-text;
+    font-weight: bold;
+    margin: 0;
+  }
+  h4 {
+    @include base-text;
+    margin: 0;
+    text-indent: 20px;
+  }
+}
+
+.texts {
+  width: $colWidth;
+}
+.content {
+  margin: 0px 0 60px;
+  p {
+    a {
+      @include underlineLink;
+    }
+    &:lang(zh) {
+      text-align: justify;
+    }
+  }
+}
+
+.viewProject {
+  margin: 40px 0;
+  display: block;
+  @include underlineLink;
+}
+
+.gallery {
+  @media #{$mq4Col} {
+    width: $col-4-width;
+  }
+
+  @media #{$mq3Col} {
+    width: $col-3-width;
+  }
+
+  @media #{$mq2Col} {
+    width: $col-2-width;
+  }
+
+  @media #{$mq1Col} {
+    width: $col-1-width;
+  }
+
+  .image {
+    width: 100%;
+    margin-bottom: 20px;
+    img {
+      width: 100%;
+    }
+  }
+}

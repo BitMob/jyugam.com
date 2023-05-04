@@ -1,0 +1,219 @@
+@import "./variables.scss";
+
+.wrap {
+  width: 100vw;
+}
+main {
+  padding: 60px 0 20px 20px;
+  max-width: 1544px;
+}
+.about {
+  grid-area: about;
+}
+.techniques {
+  grid-area: techniques;
+}
+.tools {
+  grid-area: tools;
+}
+.experience {
+  grid-area: experience;
+}
+
+.grid {
+  position: relative;
+  display: grid;
+  gap: 60px $colGap;
+
+  @media #{$mq4Col} {
+    grid-template-columns: var(--col-width) var(--col-width) var(--col-width) var(--col-width);
+    grid-template-areas:
+      "about experience techniques tools"
+      "listWrap listWrap listWrap listWrap";
+  }
+
+  @media #{$mq3Col} {
+    grid-template-columns: var(--col-width) var(--col-width) var(--col-width);
+    grid-template-areas:
+      "about experience techniques"
+      "listWrap listWrap listWrap"
+      "tools . .";
+  }
+
+  @media #{$mq2Col} {
+    grid-template-columns: var(--col-width) var(--col-width);
+    grid-template-areas:
+      "about experience"
+      "listWrap listWrap"
+      "techniques tools";
+  }
+
+  @media #{$mq1Col} {
+    grid-template-columns: var(--col-width) var(--col-width);
+    grid-template-areas:
+      "about"
+      "experience"
+      "listWrap"
+      "tools";
+  }
+}
+
+.indent {
+  // text-indent: 20px;
+}
+
+.exp {
+  p {
+    padding-left: 20px;
+  }
+}
+
+.shiftRight {
+  padding-left: 20px;
+}
+
+.heading {
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.expand {
+  margin-left: 8px;
+  cursor: pointer;
+  span {
+    @include underlineLink;
+  }
+}
+
+.sectionTitle {
+  @include base-text;
+  margin: 0;
+}
+
+.col {
+  h3 {
+    margin-bottom: 1em;
+    margin-top: 3em;
+    @include base-text;
+    font-weight: bold;
+    text-indent: 0;
+  }
+}
+.content {
+  overflow: hidden;
+  p {
+    margin-top: 0;
+    a {
+      // text-decoration: underline;
+      @include underlineLink;
+    }
+    &:lang(zh) {
+      text-align: justify;
+    }
+  }
+  h3 {
+    &:nth-of-type(1) {
+      margin-top: 0;
+    }
+  }
+}
+
+.listWrap {
+  grid-area: listWrap;
+  display: grid;
+  margin-bottom: 100px;
+  gap: 60px $colGap;
+  @media #{$mq4Col} {
+    grid-column: 1 / span 4;
+    width: $col-4-width;
+    grid-template-columns: var(--col-width) var(--col-width) var(--col-width) var(--col-width);
+  }
+
+  @media #{$mq3Col} {
+    grid-column: 1 / span 3;
+    width: $col-3-width;
+    grid-template-columns: var(--col-width) var(--col-width) var(--col-width);
+  }
+
+  @media #{$mq2Col} {
+    grid-column: 1 / span 2;
+    width: $col-2-width;
+    grid-template-columns: var(--col-width) var(--col-width);
+  }
+
+  @media #{$mq1Col} {
+    grid-column: 1 / span 1;
+    width: $col-1-width;
+    grid-template-columns: var(--col-width);
+    gap: 60px $colGap + 10px;
+  }
+}
+
+.thumb {
+  height: $colWidth;
+  background-size: cover;
+  display: flex;
+  cursor: pointer;
+  span {
+    margin-top: auto;
+    font-size: 11px;
+    line-height: 26px;
+    color: var(--white);
+    width: 100%;
+    text-align: center;
+    transform: translate3d(0, 26px, 0);
+  }
+  &:hover {
+    span {
+      color: var(--black);
+    }
+  }
+  @media #{$mq1Col} {
+    span {
+      text-align: left;
+      color: var(--gray);
+    }
+  }
+}
+
+.articleTop {
+  position: relative;
+  margin-bottom: 40px;
+  .back {
+    cursor: pointer;
+    span {
+      display: inline-block;
+      margin-left: 10px;
+    }
+  }
+}
+
+.morePage {
+  // padding: 60px 0 0 20px;
+}
+
+.sidebarTrigger {
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.sidebar {
+  width: $colWidth;
+  //min-height: 100vh;
+  //display: flex;
+  //flex-direction: column;
+}
+
+.sidebarFoot {
+  //margin-top: auto;
+  display: flex;
+  > a {
+    // margin-left: auto;
+  }
+}
+
+.close {
+  cursor: pointer;
+  position: absolute;
+  left: $colWidth - 14px;
+}

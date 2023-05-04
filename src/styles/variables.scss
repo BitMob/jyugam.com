@@ -1,0 +1,76 @@
+/* media queries */
+$mq-mobile: "screen and (max-width: 768px)";
+$mq-mid: "screen and (min-width: 769px) and (max-width: 1024px)";
+
+$ossUrl: "//assets.bitmob.cc";
+$imageUrl: "#{$ossUrl}/images";
+$fontUrl: "#{$ossUrl}/fonts";
+$colGap: 80px;
+$colWidth: 336px;
+$margin: 20px;
+$col-1-width: $colWidth; // 336
+$col-1-space: $col-1-width + $margin * 2; // 376
+$col-2-width: $colWidth * 2 + $colGap; // 752
+$col-2-space: $col-2-width + $margin * 2; // 792
+$col-3-width: $colWidth * 3 + $colGap * 2; // 1168
+$col-3-space: $col-3-width + $margin * 2; // 1208
+$col-4-width: $colWidth * 4 + $colGap * 3; // 1584
+$col-4-space: $col-4-width + $margin * 2; // 1624
+$mq1Col: screen and
+  (
+    max-width: #{$col-2-space - 1px},
+  );
+$mq2Col: screen and
+  (
+    min-width: #{$col-2-space},
+  )
+  and
+  (
+    max-width: #{$col-3-space - 1px},
+  );
+$mq3Col: screen and
+  (
+    min-width: #{$col-3-space},
+  )
+  and
+  (
+    max-width: #{$col-4-space - 1px},
+  );
+$mq4Col: screen and
+  (
+    min-width: #{$col-4-space},
+  );
+
+@mixin base-text {
+  font-weight: 400;
+  font-size: 12.5px;
+  line-height: 1.7;
+  @media #{$mq1Col} {
+    font-size: 14px;
+  }
+}
+
+@mixin underlineLink {
+  position: relative;
+  display: inline-block;
+  &:before {
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: var(--black);
+    left: 0;
+    bottom: 3px;
+  }
+  &:hover {
+    &:before {
+      // height: 6px;
+    }
+  }
+  @media #{$mq-mobile} {
+    &:before {
+      // bottom: 1px;
+    }
+  }
+}

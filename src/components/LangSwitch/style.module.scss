@@ -1,0 +1,34 @@
+@import "../../styles/variables.scss";
+
+.langSwitch {
+  //display: none;
+  a {
+    //text-decoration: underline;
+    cursor: pointer;
+    @include underlineLink;
+  }
+}
+
+$offset: 54px;
+.atTop {
+  position: absolute;
+  top: 0;
+  @media #{$mq4Col} {
+    left: $col-4-space - $offset;
+  }
+
+  @media #{$mq3Col} {
+    left: $col-3-space - $offset;
+  }
+
+  @media #{$mq2Col} {
+    left: $col-2-space - $offset;
+  }
+
+  @media #{$mq1Col} {
+    left: $col-1-space - $offset;
+    &.home {
+      display: none;
+    }
+  }
+}
