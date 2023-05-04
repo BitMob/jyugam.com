@@ -1,0 +1,2 @@
+# jyugam.com
+jyugam.com
