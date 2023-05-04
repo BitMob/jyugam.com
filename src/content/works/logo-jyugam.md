@@ -5,7 +5,7 @@ clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-12
 category: graphic
-
+url: ""
 thumb: logo-jyugam-0.jpg
 gallery:
   - logo-jyugam-1.jpg

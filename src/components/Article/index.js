@@ -26,7 +26,7 @@ export default function Article({ html, frontmatter, isMobile, lang }) {
         <h3>{lang === "zh" ? titleZh : titleEn}</h3>
         <h4>{lang === "zh" ? clientZh : clientEn}</h4>
         <h4>{new Date(date).getFullYear()}</h4>
-        {url ? (
+        {url && url !== "" ? (
           <a href={url} target="_blank" className={S.viewProject}>
             {i18n.viewProject["en"]}
           </a>
