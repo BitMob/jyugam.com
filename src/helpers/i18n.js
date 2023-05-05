@@ -2,8 +2,8 @@ export default {
   about: {
     //zh: "關於  馬飛兒（maf）",
     //en: "About maf, a designer.",
-    zh: "Jyugam，「如今」的粤語拼音，意為此時、現在，我們用音樂致意當下",
-    en: "Jyugam, a music publishing boutique.",
+    zh: "Jyugam（我們用音樂致意當下）",
+    en: "Jyugam (a music publishing boutique)",
     //en: "gallery of maf's design practice · 2011 - 2020",
   },
   more: {
