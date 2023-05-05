@@ -6,9 +6,8 @@ export default function Footer() {
   return (
     <div className={S.footer}>
       <div className={S.col}>
-        <a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>
+        <a href="mailto:fredmamono@gmail.com">jyugamlabel@gmail.com</a>
       </div>
-      <div className={S.col}>© 2022 maf-works.com All rights reserved.</div>
-    </div>
+      <div className={S.col}>© 2023 Jyugam All rights reserved.</div> </div>
   )
 }
