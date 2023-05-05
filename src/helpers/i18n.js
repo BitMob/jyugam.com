@@ -2,7 +2,7 @@ export default {
   about: {
     //zh: "關於  馬飛兒（maf）",
     //en: "About maf, a designer.",
-    zh: "Jyugam（我們用音樂致意當下）",
+    zh: "Jyugam（此時、現在）",
     en: "Jyugam (a music publishing boutique)",
     //en: "gallery of maf's design practice · 2011 - 2020",
   },
