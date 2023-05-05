@@ -2,13 +2,13 @@
 
 .cursor {
   position: fixed;
-  width: 100px;
-  height: 100px;
+  width: 180px;
+  height: 260px;
   background: var(--red);
   top: -50px;
   left: -50px;
   pointer-events: none;
-  border-radius: 50%;
+  border-radius: 0%;
   mix-blend-mode: multiply;
   @media #{$mq1Col} {
     display: none;
