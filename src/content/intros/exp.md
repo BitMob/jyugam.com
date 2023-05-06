@@ -21,7 +21,7 @@ mafmadmaf
 
 GM003<br>
 Experimental, Ambient<br>
-Digital / Cassette \ CDR<br>
+Digital / Cassette / CDR<br>
 [bandcamp](https://jyugam.bandcamp.com/album/b-t-r-by-th-river)
  
 <!-- lang -->
@@ -42,5 +42,5 @@ mafmadmaf
 
 GM003<br>
 Experimental, Ambient<br>
-Digital / Cassette \ CDR<br>
+Digital / Cassette / CDR<br>
 [bandcamp](https://jyugam.bandcamp.com/album/b-t-r-by-th-river)
