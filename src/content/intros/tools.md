@@ -10,6 +10,6 @@ Instagram: [@jyugam_label](https://www.instagram.com/jyugam_label/)
 
 <!-- lang -->
 
-jyugamlabel@gmail.com → welcome to inquire or submit works!<br>
+<a href="mailto:fredmamono@gmail.com">jyugamlabel@gmail.com</a> → welcome to inquire or submit works!<br>
 Search '**Jyugam**' on WeChat, and follow the label's official account to get the latest release information and offline event news!<br>
 Instagram: [@jyugam_label](https://www.instagram.com/jyugam_label/)

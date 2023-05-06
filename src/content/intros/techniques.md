@@ -4,8 +4,36 @@ type: intro
 ---
 <!-- contributors -->
 
-平面設計 & 插圖（編輯專長）<br/>書籍裝幀設計 / 印制 & 出版<br/>UI / UX & Web 交互設計<br/>字體設計<br/>多媒體（聲音·影像）互動裝置<br/>聲音設計 & 作曲
+maf(madmaf)<br>
+Yu Hein<br>
+WISEFAKE<br>
+WhiteCrow<br>
+Lastboss<br>
+Glass Bystander<br>
+france_lion<br>
+Gabbi Greco<br>
+CDX<br>
+FKY<br>
+DAMAO<br>
+Haze<br>
+aDeAD<br>
+Noii<br>
+Humbug<br>
 
 <!-- lang -->
 
-Graphic Design & Illustration (editorial specialized)<br/>Book Design / Printing & Publishing<br/>UI / UX & Web Interactive design<br/>Font Design<br/>Multimedia (Sound & Visual) Interactive Installation<br/>Sound Design & Composition
+maf(madmaf)<br>
+Yu Hein<br>
+WISEFAKE<br>
+WhiteCrow<br>
+Lastboss<br>
+Glass Bystander<br>
+france_lion<br>
+Gabbi Greco<br>
+CDX<br>
+FKY<br>
+DAMAO<br>
+Haze<br>
+aDeAD<br>
+Noii<br>
+Humbug<br>
