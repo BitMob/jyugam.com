@@ -10,7 +10,8 @@ type: intro
 WISEFAKE
 
 Experimental, Ambient<br>
-Digital \ Cassette
+Digital \ Cassette<br>
+https://jyugam.bandcamp.com/album/flowage
 
 
 ### GM003 - B​.​T​.​R. [By Th​(​.​_​.​) River]
@@ -18,7 +19,8 @@ Digital \ Cassette
 mafmadmaf
 
 Experimental, Ambient<br>
-Digital \ Cassette \ CDR
+Digital \ Cassette \ CDR<br>
+https://jyugam.bandcamp.com/album/b-t-r-by-th-river
  
 <!-- lang -->
 
@@ -27,7 +29,8 @@ Digital \ Cassette \ CDR
 WISEFAKE
 
 Experimental, Ambient<br>
-Digital \ Cassette
+Digital \ Cassette<br>
+https://jyugam.bandcamp.com/album/flowage
 
 
 ### GM003 - B​.​T​.​R. [By Th​(​.​_​.​) River]
@@ -35,4 +38,5 @@ Digital \ Cassette
 mafmadmaf
 
 Experimental, Ambient<br>
-Digital \ Cassette \ CDR
+Digital \ Cassette \ CDR<br>
+https://jyugam.bandcamp.com/album/b-t-r-by-th-river
