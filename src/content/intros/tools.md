@@ -2,43 +2,14 @@
 slug: tools
 type: intro
 ---
+<!-- contacts -->
 
-1200 Bookshop<br/>
-1626 雜誌<br/>
-馬賽國家芭蕾舞團<br/>
-水象雜誌/網站<br/>
-城市畫報<br/>
-消化設計<br/>
-消化三里<br/>
-方所<br/>
-廣州大劇院<br/>
-K-11<br/>
-Levi’s<br/>
-岡本<br/>
-New Balance<br/>
-新週刊<br/>
-Nike<br/>
-維他命藝術空間<br/>
-觀心亭<br/>
-YOHO!<br/>
+<a href="mailto:fredmamono@gmail.com">jyugamlabel@gmail.com</a> → 歡迎來信咨詢或者投稿作品！<br>
+微信搜索「Jyugam」，關注廠牌公眾號以獲得最新的作品發行資訊和線下活動消息！<br>
+Instagram: [@jyugam_label](https://www.instagram.com/jyugam_label/)
 
 <!-- lang -->
 
-1200 Bookshop<br/>
-1626 Magazine<br/>
-Ballet National de Marseille<br/>
-Be Water Journal<br/>
-City Zine<br/>
-Digest Design Workshop<br/>
-Digest3KG<br/>
-Fang Suo<br/>
-Guangzhou Opera House<br/>
-K-11<br/>
-Levi’s<br/>
-Okamoto<br/>
-New Balance<br/>
-Neweekly Magazine<br/>
-Nike<br/>
-Vitamin Creative Space<br/>
-The Pavilion<br/>
-YOHO!<br/>
+JYUGAMLABEL@gmail.com → welcome to inquire or submit works!
+Search `Jyugam` on WeChat, and follow the label's official account to get the latest release information and offline event news!
+Instagram: [@jyugam_label](https://www.instagram.com/jyugam_label/)
