@@ -7,7 +7,7 @@ type: intro
 
 ### GM013 · 無名 象外 / WUMING XIANGWAI
 
-薛翳 (Xue Yi)
+薛翳 (XUE Yi)
 
 Experimental, Ambient<br>
 Digital / Cassette<br>
@@ -125,7 +125,7 @@ Digital<br>
 
 ### GM013 · 無名 象外 / WUMING XIANGWAI
 
-薛翳 (Xue Yi)
+薛翳 (XUE Yi)
 
 Experimental, Ambient<br>
 Digital / Cassette<br>
