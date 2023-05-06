@@ -19,16 +19,16 @@ export default {
     zh: "展開",
   },
   techniques: {
-    en: "techniques",
-    zh: "技術",
+    en: "contributors",
+    zh: "夥伴",
   },
   tools: {
-    en: "commissions",
-    zh: "委託",
+    en: "contacts",
+    zh: "聯絡",
   },
   experience: {
-    en: "experience",
-    zh: "經歷",
+    en: "discography",
+    zh: "發行",
   },
   viewProject: {
     en: "view project",
