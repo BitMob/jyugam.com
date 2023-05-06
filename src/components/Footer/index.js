@@ -8,6 +8,6 @@ export default function Footer() {
       <div className={S.col}>
         <a href="mailto:fredmamono@gmail.com">jyugamlabel@gmail.com</a>
       </div>
-      <div className={S.col}>© 2020-2023 Jyugam All rights reserved.</div> </div>
+      <div className={S.col}>© 2020-2023 Jyugam. Made in Canton.</div> </div>
   )
 }
