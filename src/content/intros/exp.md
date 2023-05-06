@@ -5,38 +5,42 @@ type: intro
 <!-- discography -->
 
 
-### GM004 - flowage / 流動
+### flowage / 流動
 
 WISEFAKE
 
+GM004<br>
 Experimental, Ambient<br>
-Digital \ Cassette<br>
-https://jyugam.bandcamp.com/album/flowage
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/flowage)
 
 
-### GM003 - B​.​T​.​R. [By Th​(​.​_​.​) River]
+### B​.​T​.​R. [By Th​(​.​_​.​) River]
 
 mafmadmaf
 
+GM003<br>
 Experimental, Ambient<br>
-Digital \ Cassette \ CDR<br>
-https://jyugam.bandcamp.com/album/b-t-r-by-th-river
+Digital / Cassette \ CDR<br>
+[bandcamp](https://jyugam.bandcamp.com/album/b-t-r-by-th-river)
  
 <!-- lang -->
 
-### GM004 - flowage / 流動
+### flowage / 流動
 
 WISEFAKE
 
+GM004<br>
 Experimental, Ambient<br>
-Digital \ Cassette<br>
-https://jyugam.bandcamp.com/album/flowage
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/flowage)
 
 
-### GM003 - B​.​T​.​R. [By Th​(​.​_​.​) River]
+### B​.​T​.​R. [By Th​(​.​_​.​) River]
 
 mafmadmaf
 
+GM003<br>
 Experimental, Ambient<br>
-Digital \ Cassette \ CDR<br>
-https://jyugam.bandcamp.com/album/b-t-r-by-th-river
+Digital / Cassette \ CDR<br>
+[bandcamp](https://jyugam.bandcamp.com/album/b-t-r-by-th-river)
