@@ -11,6 +11,7 @@ WhiteCrow<br>
 Lastboss<br>
 Glass Bystander<br>
 france_lion<br>
+薛翳 (XUE Yi)<br>
 Gabbi Greco<br>
 CDX<br>
 FKY<br>
@@ -29,6 +30,7 @@ WhiteCrow<br>
 Lastboss<br>
 Glass Bystander<br>
 france_lion<br>
+薛翳 (XUE Yi)<br>
 Gabbi Greco<br>
 CDX<br>
 FKY<br>
