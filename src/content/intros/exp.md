@@ -5,7 +5,7 @@ type: intro
 <!-- discography -->
 
 
-### GM004 · flowage
+### GM004 · flowage / 流動
 
 WISEFAKE
 
@@ -24,7 +24,7 @@ Digital / Cassette / CDR<br>
  
 <!-- lang -->
 
-### GM004 · 流動
+### GM004 · flowage / 流動
 
 WISEFAKE
 
