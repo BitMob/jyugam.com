@@ -4,6 +4,7 @@ type: intro
 ---
 <!-- discography -->
 
+
 ### GM004 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
 
 2017 - 2020
