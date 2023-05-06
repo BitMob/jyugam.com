@@ -2,40 +2,14 @@
 slug: techniques
 type: intro
 ---
-<!-- contributors -->
+<!-- contacts -->
 
-maf(madmaf)<br>
-Yu Hein<br>
-WISEFAKE<br>
-WhiteCrow<br>
-Lastboss<br>
-Glass Bystander<br>
-france_lion<br>
-薛翳 (XUE Yi)<br>
-Gabbi Greco<br>
-CDX<br>
-FKY<br>
-DAMAO<br>
-Haze<br>
-aDeAD<br>
-Noii<br>
-Humbug<br>
+<a href="mailto:fredmamono@gmail.com">jyugamlabel@gmail.com</a> → 歡迎來信咨詢、購買作品或者投稿聲音作品！<br>
+微信搜索「**Jyugam**」，關注廠牌公眾號以獲得最新的作品發行資訊和線下活動消息，透過公眾號可進入小程序購買限量磁帶！<br>
+Instagram: [@jyugam_label](https://www.instagram.com/jyugam_label/)
 
 <!-- lang -->
 
-maf(madmaf)<br>
-Yu Hein<br>
-WISEFAKE<br>
-WhiteCrow<br>
-Lastboss<br>
-Glass Bystander<br>
-france_lion<br>
-薛翳 (XUE Yi)<br>
-Gabbi Greco<br>
-CDX<br>
-FKY<br>
-DAMAO<br>
-Haze<br>
-aDeAD<br>
-Noii<br>
-Humbug<br>
+<a href="mailto:fredmamono@gmail.com">jyugamlabel@gmail.com</a> → welcome to inquire or submit works!<br>
+Search '**Jyugam**' on WeChat, and follow the label's official account to get the latest information of releases and events!<br>
+Instagram: [@jyugam_label](https://www.instagram.com/jyugam_label/)

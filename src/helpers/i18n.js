@@ -19,12 +19,12 @@ export default {
     zh: "展開",
   },
   techniques: {
-    en: "contributors",
-    zh: "夥伴",
-  },
-  tools: {
     en: "contacts",
     zh: "聯絡",
+  },
+  tools: {
+    en: "contributors",
+    zh: "夥伴",
   },
   experience: {
     en: "discography",
