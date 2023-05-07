@@ -15,7 +15,7 @@ Jyugam，「如今」的粤語拼音，意為此時、現在。<br>
 
 <!-- lang -->
 
-Founded in Guangzhou in 2020, Jyugam, an independent music label, has established a unique philosophy and presentation of audio and visual. We focus on physical publishing and extend the concept of works from virtual digital media to the material world through cassettes, CDs, vinyl, etc., combined with graphic design, printing, and various handmade productions.<br>
+Founded in Guangzhou in 2020, Jyugam, an independent music label, has established a unique philosophy and presentation of audio and visual. We focus on physical publishing and extend the concept of works from virtual digital media to the material world through cassettes, CDs, vinyl, etc., combined with handmade printing and various materials.<br>
 Jyugam, means 'at present' in Cantonese. 
 We pay tribute to the present with music.<br>
 [jyugam.bandcamp.com](https://jyugam.bandcamp.com/)
