@@ -5,6 +5,25 @@ type: intro
 <!-- discography -->
 
 
+
+### GM015 · Thousand-Years Planet Movie / 千年行星電影
+
+樓長 (Louzhang)
+
+Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/thousand-years-planet-movie)
+
+
+### GM014 · Genius Loci Vol.1 / 場所精神 Vol.1
+
+薛翳 (XUE Yi)
+
+Experimental, Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/wuming-xiangwai)
+
+
 ### GM013 · 無名 象外 / WUMING XIANGWAI
 
 薛翳 (XUE Yi)
@@ -122,6 +141,26 @@ Digital<br>
 [bandcamp](https://jyugam.bandcamp.com/album/stomach-dance-vol-1)
  
 <!-- lang -->
+
+
+### GM015 · Thousand-Years Planet Movie / 千年行星電影
+
+樓長 (Louzhang)
+
+Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/thousand-years-planet-movie)
+
+
+### GM014 · Genius Loci Vol.1 / 場所精神 Vol.1
+
+薛翳 (XUE Yi)
+
+Experimental, Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/wuming-xiangwai)
+
+
 
 ### GM013 · 無名 象外 / WUMING XIANGWAI
 

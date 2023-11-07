@@ -20,6 +20,12 @@ Haze<br>
 aDeAD<br>
 Noii<br>
 Humbug<br>
+Louzhang<br>
+AFTMOON<br>
+Aoi Sho<br>
+Noooodle King<br>
+Rainsoft<br>
+Ryefield Society<br>
 
 <!-- lang -->
 
@@ -39,3 +45,9 @@ Haze<br>
 aDeAD<br>
 Noii<br>
 Humbug<br>
+Louzhang<br>
+AFTMOON<br>
+Aoi Sho<br>
+Noooodle King<br>
+Rainsoft<br>
+Ryefield Society<br>
