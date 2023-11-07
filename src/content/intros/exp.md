@@ -161,7 +161,7 @@ Digital / Cassette<br>
 [bandcamp](https://jyugam.bandcamp.com/album/thousand-years-planet-movie)
 
 
-### GM014 · Genius Loci Vol.1 / 場所精神 Vol.1
+### GM014 · Genius Loci Vol.1 / 場所精神 I
 
 薛翳 (XUE Yi)
 
