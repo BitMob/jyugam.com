@@ -5,6 +5,14 @@ type: intro
 <!-- discography -->
 
 
+### GX002 · 家字的由來 / The Origin of the Chinese Character '家'
+
+mafmadmaf
+
+Ambient, Documentry<br>
+Digital / Cassette<br>
+[bandcamp](https://mafmadmaf.bandcamp.com/album/the-origin-of-the-chinese-character)
+
 
 ### GM015 · Thousand-Years Planet Movie / 千年行星電影
 
@@ -149,7 +157,7 @@ mafmadmaf
 
 Ambient, Documentry<br>
 Digital / Cassette<br>
-[bandcamp](https://mafmadmaf.bandcamp.com)
+[bandcamp](https://mafmadmaf.bandcamp.com/album/the-origin-of-the-chinese-character)
 
 
 ### GM015 · Thousand-Years Planet Movie / 千年行星電影
