@@ -26,6 +26,8 @@ Aoi Sho<br>
 Noooodle King<br>
 Rainsoft<br>
 Ryefield Society<br>
+Kagami Smile<br>
+Seon Ga<br>
 
 <!-- lang -->
 
@@ -51,3 +53,5 @@ Aoi Sho<br>
 Noooodle King<br>
 Rainsoft<br>
 Ryefield Society<br>
+Kagami Smile<br>
+Seon Ga<br>

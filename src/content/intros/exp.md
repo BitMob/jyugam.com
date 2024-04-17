@@ -4,6 +4,24 @@ type: intro
 ---
 <!-- discography -->
 
+### GM018 · Fixing Messages
+
+信鴿 (Seon Ga)
+
+Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/fixing-messages)
+
+
+### GM016 · The Cycle Cannot Be Reversed
+
+Kagami Smile
+
+Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed)
+
+
 
 ### GX002 · 家字的由來 / The Origin of the Chinese Character '家'
 
