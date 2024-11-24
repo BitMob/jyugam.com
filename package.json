@@ -5,9 +5,6 @@
   "main": "index.js",
   "author": "Ed Lee <jonexiu@gmail.com>",
   "license": "MIT",
-  "engines": {
-    "node": ">=16.20.0 <20.0.0"
-  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
