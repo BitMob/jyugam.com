@@ -1,24 +1,25 @@
-import React from "react"
-import ReactHtml from "react-html-parser"
-
-import i18n from "../../helpers/i18n"
-import { CASE_PATH } from "../../helpers/constants"
-import S from "./style.module.scss"
+import React from "react";
+import i18n from "../../helpers/i18n";
+import { CASE_PATH } from "../../helpers/constants";
+import * as S from "./style.module.scss";
 
 export default function Article({ html, frontmatter, isMobile, lang }) {
-  const { titleEn, titleZh, clientEn, clientZh, date, url, gallery } = frontmatter
+  const { titleEn, titleZh, clientEn, clientZh, date, url, gallery } =
+    frontmatter;
 
-  const byLang = html.split("<!-- lang -->")
+  const byLang = html.split("<!-- lang -->");
 
-  const images = gallery.map(name => {
-    const _suf = isMobile ? "detail-mobile" : "detail"
-    const _name = name.includes(".gif") ? name : `${name}?x-oss-process=style/maf-works-${_suf}`
+  const images = gallery.map((name) => {
+    const _suf = isMobile ? "detail-mobile" : "detail";
+    const _name = name.includes(".gif")
+      ? name
+      : `${name}?x-oss-process=style/maf-works-${_suf}`;
     return (
       <div className={S.image} key={name}>
         <img src={`${CASE_PATH}/${_name}`} />
       </div>
-    )
-  })
+    );
+  });
 
   return (
     <div className={S.article}>
@@ -31,11 +32,13 @@ export default function Article({ html, frontmatter, isMobile, lang }) {
             {i18n.viewProject["en"]}
           </a>
         ) : null}
-        <div className={S.content} lang={lang}>
-          {ReactHtml(byLang[lang === "zh" ? 0 : 1])}
-        </div>
+        <div
+          className={S.content}
+          lang={lang}
+          dangerouslySetInnerHTML={{ __html: byLang[lang === "zh" ? 0 : 1] }}
+        />
         <div className={S.gallery}>{images}</div>
       </div>
     </div>
-  )
+  );
 }

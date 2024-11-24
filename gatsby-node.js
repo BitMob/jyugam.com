@@ -1,41 +1,37 @@
 exports.createPages = async ({ actions, graphql }) => {
-  const { createPage } = actions
+  const { createPage } = actions;
 
   const result = await graphql(`
-    {
+    query {
       allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/(works)/" } }
-        sort: { fields: [frontmatter___date], order: DESC }
+        filter: { fileAbsolutePath: { regex: "/(/works/)/" } }
+        sort: { frontmatter: { date: DESC } }
       ) {
-        edges {
-          node {
-            id
-            frontmatter {
-              titleEn
-              date
-            }
+        nodes {
+          id
+          frontmatter {
+            titleEn
+            date
           }
         }
       }
     }
-  `)
+  `);
 
   if (result.errors) {
-    console.error(result.errors)
+    console.error(result.errors);
   }
 
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    const path = require("path")
-    const { frontmatter } = node
-    const titleEn = frontmatter.titleEn
-    const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "")
+  result.data.allMarkdownRemark.nodes.forEach(({ id, frontmatter }) => {
+    const path = require("path");
+
+    const titleEn = frontmatter.titleEn;
+    const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "");
 
     createPage({
       path: `work/${slug}`,
       component: path.resolve(`src/templates/work.js`),
-      context: {
-        id: node.id,
-      },
-    })
-  })
-}
+      context: { id },
+    });
+  });
+};

@@ -16,30 +16,10 @@ $col-3-width: $colWidth * 3 + $colGap * 2; // 1168
 $col-3-space: $col-3-width + $margin * 2; // 1208
 $col-4-width: $colWidth * 4 + $colGap * 3; // 1584
 $col-4-space: $col-4-width + $margin * 2; // 1624
-$mq1Col: screen and
-  (
-    max-width: #{$col-2-space - 1px},
-  );
-$mq2Col: screen and
-  (
-    min-width: #{$col-2-space},
-  )
-  and
-  (
-    max-width: #{$col-3-space - 1px},
-  );
-$mq3Col: screen and
-  (
-    min-width: #{$col-3-space},
-  )
-  and
-  (
-    max-width: #{$col-4-space - 1px},
-  );
-$mq4Col: screen and
-  (
-    min-width: #{$col-4-space},
-  );
+$mq1Col: "screen and (max-width: 791px)";
+$mq2Col: "screen and (min-width: 792px) and (max-width: 1207px)";
+$mq3Col: "screen and (min-width: 1208px) and (max-width: 1623px)";
+$mq4Col: "screen and (min-width: 1624px)";
 
 @mixin base-text {
   font-weight: 400;
