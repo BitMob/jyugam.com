@@ -40,7 +40,6 @@ Digital / Cassette<br>
 [bandcamp](https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed)
 
 
-
 ### GX002 · 家字的由來 / The Origin of the Chinese Character '家'
 
 mafmadmaf
@@ -187,6 +186,40 @@ Digital<br>
 <!-- lang -->
 
 
+tamiX
+
+Techno, Modular, Experimental<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/look-mum-no-kick-drum)
+
+
+### GM018 · Fixing Messages
+
+信鴿 (Seon Ga)
+
+Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/fixing-messages)
+
+
+### GM017 · wetloop
+
+WISEFAKE
+
+Experimental, Ambient, Drone<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/wetloop)
+
+
+### GM016 · The Cycle Cannot Be Reversed
+
+Kagami Smile
+
+Ambient<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed)
+
+
 ### GX002 · 家字的由來 / The Origin of the Chinese Character '家'
 
 mafmadmaf
@@ -205,14 +238,13 @@ Digital / Cassette<br>
 [bandcamp](https://jyugam.bandcamp.com/album/thousand-years-planet-movie)
 
 
-### GM014 · Genius Loci Vol.1 / 場所精神 I
+### GM014 · Genius Loci Vol.1 / 場所精神 Vol.1
 
 薛翳 (XUE Yi)
 
 Experimental, Ambient<br>
 Digital / Cassette<br>
 [bandcamp](https://jyugam.bandcamp.com/album/wuming-xiangwai)
-
 
 
 ### GM013 · 無名 象外 / WUMING XIANGWAI
