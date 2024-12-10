@@ -4,6 +4,15 @@ type: intro
 ---
 <!-- discography -->
 
+### GM019 · Look Mum! No Kick Drum!
+
+tamiX
+
+Techno, Modular, Experimental<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/look-mum-no-kick-drum)
+
+
 ### GM018 · Fixing Messages
 
 信鴿 (Seon Ga)
@@ -11,6 +20,15 @@ type: intro
 Ambient<br>
 Digital / Cassette<br>
 [bandcamp](https://jyugam.bandcamp.com/album/fixing-messages)
+
+
+### GM017 · wetloop
+
+WISEFAKE
+
+Experimental, Ambient, Drone<br>
+Digital / Cassette<br>
+[bandcamp](https://jyugam.bandcamp.com/album/wetloop)
 
 
 ### GM016 · The Cycle Cannot Be Reversed
