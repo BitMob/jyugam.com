@@ -23,7 +23,7 @@ export default {
     zh: "聯絡",
   },
   tools: {
-    en: "contributors",
+    en: "collaborators",
     zh: "夥伴",
   },
   experience: {

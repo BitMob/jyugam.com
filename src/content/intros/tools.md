@@ -2,7 +2,7 @@
 slug: tools
 type: intro
 ---
-<!-- contributors -->
+<!-- collaborators -->
 
 maf(madmaf)<br>
 Yu Hein<br>
