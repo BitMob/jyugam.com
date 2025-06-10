@@ -29,6 +29,8 @@ Ryefield Society<br>
 Kagami Smile<br>
 Seon Ga<br>
 tamiX<br>
+thruoutin<br>
+Yuke 玉刻<br>
 
 <!-- lang -->
 
@@ -57,3 +59,5 @@ Ryefield Society<br>
 Kagami Smile<br>
 Seon Ga<br>
 tamiX<br>
+thruoutin<br>
+Yuke 玉刻<br>
